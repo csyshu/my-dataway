@@ -10,6 +10,9 @@ import org.springframework.stereotype.Component;
 
 import javax.sql.DataSource;
 
+/**
+ * @author shuyun.cheng
+ */
 @DimModule
 @Component
 public class ExampleModule implements SpringModule {
